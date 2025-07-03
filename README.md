@@ -76,7 +76,7 @@ Check for open [issues](https://github.com/Jamacbeth/TaskTrek/issues) before you
 
 ## 📬 Contact
 
-Created by **Jay Jay**  
+Created by **Jake**  
 📫 Reach me on [GitHub](https://github.com/Jamacbeth)
 
 ## 📌 License
