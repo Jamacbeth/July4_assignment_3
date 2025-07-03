@@ -13,9 +13,8 @@ Built as part of a GitHub version control and collaboration course, TaskTrek sho
 - ✅ Toggle light/dark mode  
 - 🛠️ Kanban-style drag-and-drop task board *(coming soon)*
 
-## 📷 Screenshot
 
-![TaskTrek UI Screenshot](assets/screenshot.png)
+
 
 ## 🔧 Installation
 
